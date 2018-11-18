@@ -19,6 +19,8 @@ I made the code for a website but i can't find a website host, also try throwing
     <font size="4">
       We've got what you need! (Maybe not everything though) <br>Look down to find my collection of games. I may add <br> more games as I get more advanced with coding.
     </font>
+    <br>
+    <a href="https://github.com/NinjaCoderGamer/other-website-code/blob/master/README.md">A scratch shop</a>
 
 
   </p>
